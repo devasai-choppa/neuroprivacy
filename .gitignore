@@ -17,3 +17,6 @@ data/*
 *.parquet
 *.duckdb
 .ipynb_checkpoints/
+.cursor/
+.cursorrules
+.cursorignore
